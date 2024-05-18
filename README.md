@@ -1,0 +1,2 @@
+# MNIST Encoder-Decoder for Image Reconstruction
+This project develops an autoencoder using PyTorch to perform image reconstruction on the MNIST dataset. The MNIST dataset comprises 60,000 training images and 10,000 testing images of handwritten digits, which are used here to train a convolutional autoencoder. The model compresses the MNIST images into a latent space and then reconstructs them, aiming to minimize the difference between the original and reconstructed images.
